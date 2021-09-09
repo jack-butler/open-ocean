@@ -4,10 +4,8 @@ A living list of open-source ocean technology
 Cameras
 
 [PlasPI - 150m rPi Zero-based camera](https://www.sciencedirect.com/science/article/pii/S2468067218300919)
-
 [PipeCam](https://hackaday.io/project/21222-pipecam-low-cost-autonomous-underwater-camera#menu-description)
-
-FishOASIS
+[FishOASIS](https://tos.org/oceanography/article/an-optical-imaging-system-for-capturing-images-in-low-light-aquatic-habitats-using-only-ambient-light)
 Opaleye
 LoBSTAS
 FishCam
