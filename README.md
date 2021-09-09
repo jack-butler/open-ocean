@@ -2,8 +2,7 @@
 A living list of open-source ocean technology
 
 Cameras
-[PlasPI - 150m rPi Zero-based camera
-](uhttps://www.sciencedirect.com/science/article/pii/S2468067218300919
+[PlasPI - 150m rPi Zero-based camera](https://www.sciencedirect.com/science/article/pii/S2468067218300919)
 PipeCam
 FishOASIS
 Opaleye
@@ -18,6 +17,7 @@ PiCTDCL
 Octopus Garden
 3D Printed Underwater Camera
 PondCam
+
 Acoustics
 rPi-based hydrophone recorder
 AudioMoth
@@ -32,6 +32,7 @@ CBobby
 Experimental Sonar
 BoatDetect
 Hackaday DIY echosounder recorder
+
 Physical Sensors
 NemoPi: sensor buoy “base station”
 Ocean Heart Beat heterogenous sensor network
