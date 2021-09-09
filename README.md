@@ -1,7 +1,7 @@
 # open-ocean
-##A living list of open-source ocean technology
+*A living list of open-source ocean technology*
 
-###Cameras
+**Cameras**
 
 [PlasPI - 150m rPi Zero-based camera](https://www.sciencedirect.com/science/article/pii/S2468067218300919)
 
