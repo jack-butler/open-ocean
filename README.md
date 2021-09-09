@@ -33,7 +33,7 @@
 
 [PondCam](https://www.instructables.com/The-PondCam-a-Cheap-Underwater-Camera/)
 
-###Acoustics
+**Acoustics**
 
 rPi-based hydrophone recorder
 
@@ -61,7 +61,7 @@ BoatDetect
 
 Hackaday DIY echosounder recorder
 
-###Physical Sensors
+**Physical Sensors**
 
 NemoPi: sensor buoy “base station”
 Ocean Heart Beat heterogenous sensor network
@@ -77,7 +77,7 @@ Arribada New Horizons ARGOS biologging & telemetry tag
 PULSE: Profiling Underwater Light SEnsor
 Chemical Sensors
 
-###Vehicles
+**Vehicles**
 
 MakoBot & this ref
 LoCO AUV
@@ -111,7 +111,7 @@ UROV
 CPS 5
 SemiAutonomous Submersible Robot
 
-###Buoys/Moorings
+**Buoys/Moorings**
 
 MakerBuoy - Arduino-based open-source drifter & here
 Smart Buoy
@@ -122,14 +122,14 @@ Ocean Heart Beat
 Smart Buoy
 Basic Observation Buoy
 
-###Other
+**Other**
 Underwater Data Logger & here
 bAIwatch
 Open Flow Meter
 Tilt Sensor
 Ocean Plastic Sensor
 
-###Resources
+**Resources**
 https://oceanographyforeveryone.com
 https://oceanhackweek.github.io
 https://wildlabs.net
