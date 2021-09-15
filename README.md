@@ -1,4 +1,4 @@
-# open-ocean
+# Open-source ocean tech projects and resources
 *A living list of open-source ocean technology*
 
 **Cameras**
