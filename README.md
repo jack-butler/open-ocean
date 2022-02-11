@@ -1,6 +1,6 @@
 # List of Open-Source Ocean Technology Projects and Resources ![GitHub last commit](https://img.shields.io/github/last-commit/jack-butler/open-ocean)
 
-This repository contains a living list of open-source ocean technologies compiled for the article "Emerging, Low-Cost Ocean Observing Technologies to Democratize Access to the Ocean".
+This repository contains a living list of open-source ocean technologies compiled for the article "[Emerging, Low-Cost Ocean Observing Technologies to Democratize Access to the Ocean](https://github.com/jack-butler/open-ocean/blob/main/ocean-observing-2021-butler.pdf)".
 
 Citation: Butler, J., and C.M.L.S. Pagniello. 2021. Emerging, low-cost ocean observing technologies to democratize access to the ocean. Pp. 94–95 in Frontiers in Ocean Observing: Documenting Ecosystems, Understanding Environmental Changes, Forecasting Hazards. E.S. Kappel, S.K. Juniper, S. Seeyave, E. Smith, and M. Visbeck, eds, A Supplement to Oceanography 34(4), https://doi.org/10.5670/oceanog.2021.supplement.02-35.
 
