@@ -9,15 +9,15 @@ Citation: Butler, J., and C.M.L.S. Pagniello. 2021. Emerging, low-cost ocean obs
 **Have a project that you want to add to this list? Submit an issue.**
 
 ## Table of Contents
-* [Cameras] (#cameras)
-* [Acoustics] (#acoustics)
-* [Physical Sensors] (#physical-sensors)
-* [Biological Sensors and Biologging] (#biological-sensors-and-biologging)
-* [Chemical Sensors] (#chemical-sensors)
-* [Vehicles] (#vehicles)
-* [Buoys and Moorings] (#buoys-and-moorings)
-* [Other] (#other)
-* [Resources for Getting Started] (#resources-for-getting-started)
+* [Cameras](#cameras)
+* [Acoustics](#acoustics)
+* [Physical Sensors](#physical-sensors)
+* [Biological Sensors and Biologging](#biological-sensors-and-biologging)
+* [Chemical Sensors](#chemical-sensors)
+* [Vehicles](#vehicles)
+* [Buoys and Moorings](#buoys-and-moorings)
+* [Other](#other)
+* [Resources for Getting Started](#resources-for-getting-started)
 
 ## Cameras
 
