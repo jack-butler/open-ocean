@@ -1,12 +1,25 @@
 # List of Open-Source Ocean Technology Projects and Resources ![GitHub last commit](https://img.shields.io/github/last-commit/jack-butler/open-ocean)
 
-This repository contains a living list of open-source ocean technologies compiled for the article "[Emerging, Low-Cost Ocean Observing Technologies to Democratize Access to the Ocean](https://github.com/jack-butler/open-ocean/blob/main/ocean-observing-2021-butler.pdf)".
+This repository contains a living list of open-source ocean technologies first compiled for the article "[Emerging, Low-Cost Ocean Observing Technologies to Democratize Access to the Ocean](https://github.com/jack-butler/open-ocean/blob/main/ocean-observing-2021-butler.pdf)".
+
+![Figure_1](blob/main/Figure_1.png)
 
 Citation: Butler, J., and C.M.L.S. Pagniello. 2021. Emerging, low-cost ocean observing technologies to democratize access to the ocean. Pp. 94–95 in Frontiers in Ocean Observing: Documenting Ecosystems, Understanding Environmental Changes, Forecasting Hazards. E.S. Kappel, S.K. Juniper, S. Seeyave, E. Smith, and M. Visbeck, eds, A Supplement to Oceanography 34(4), https://doi.org/10.5670/oceanog.2021.supplement.02-35.
 
-*Have a project that you want to add to this list? Submit an issue.*
+**Have a project that you want to add to this list? Submit an issue.**
 
-**Cameras**
+## Table of Contents
+* [Cameras] (#cameras)
+* [Acoustics] (#acoustics)
+* [Physical Sensors] (#physical-sensors)
+* [Biological Sensors and Biologging] (#biological-sensors-and-biologging)
+* [Chemical Sensors] (#chemical-sensors)
+* [Vehicles] (#vehicles)
+* [Buoys and Moorings] (#buoys-and-moorings)
+* [Other] (#other)
+* [Resources for Getting Started] (#resources-for-getting-started)
+
+## Cameras
 
 [PlasPI - 150m rPi Zero-based camera](https://www.sciencedirect.com/science/article/pii/S2468067218300919)
 
@@ -38,7 +51,7 @@ Citation: Butler, J., and C.M.L.S. Pagniello. 2021. Emerging, low-cost ocean obs
 
 [PondCam](https://www.instructables.com/The-PondCam-a-Cheap-Underwater-Camera/)
 
-**Acoustics**
+## Acoustics
 
 [rPi-based hydrophone recorder](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0130297)
 
@@ -66,7 +79,7 @@ Citation: Butler, J., and C.M.L.S. Pagniello. 2021. Emerging, low-cost ocean obs
 
 [Hackaday DIY echosounder recorder](https://hackaday.com/2021/09/06/homebrew-sounder-maps-the-depths-in-depth/?fbclid=IwAR2LGGlpoiFKreyoHJCJkYKdEx2-T0lru87xYlvCfQT7d5AjKCTa8HApgtA)
 
-**Physical Sensors**
+## Physical Sensors
 
 [NemoPi: sensor buoy “base station”](https://save-nemo.org/en/nemo_pi/)
 
@@ -88,13 +101,13 @@ Citation: Butler, J., and C.M.L.S. Pagniello. 2021. Emerging, low-cost ocean obs
 
 [PULSE: Profiling Underwater Light SEnsor](https://hackaday.io/project/12125-pulse-profiling-underwater-light-sensor)
 
-**Biological Sensors and Biologging**
+## Biological Sensors and Biologging
 
 [Arribada New Horizons ARGOS biologging & telemetry tag](https://arribada.org/2019/12/08/new-horizons-open-access-argos-telemetry/)
 
-**Chemical Sensors**
+## Chemical Sensors
 
-**Vehicles**
+## Vehicles
 
 [MakoBot](https://makobot-hauv.github.io) & [this ref](https://cseweb.ucsd.edu//~awilby/makobot-wilby.pdf)
 
@@ -156,7 +169,7 @@ Citation: Butler, J., and C.M.L.S. Pagniello. 2021. Emerging, low-cost ocean obs
 
 [SemiAutonomous Submersible Robot](https://www.instructables.com/SemiAutonomous-Submersible-robot-for-underwater-re/)
 
-**Buoys/Moorings**
+## Buoys and Moorings
 
 [MakerBuoy - Arduino-based open-source drifter](https://www.makerbuoy.com/about-1) & [here](https://www.mdpi.com/1424-8220/20/5/1254)
 
@@ -172,7 +185,7 @@ Citation: Butler, J., and C.M.L.S. Pagniello. 2021. Emerging, low-cost ocean obs
 
 [Basic Observation Buoy](https://secoora.org/education-outreach/basic-observation-buoy/)
 
-**Other**
+## Other
 
 [Underwater Data Logger](https://thecavepearlproject.org/) & [here](https://hackaday.io/project/6961-the-cave-pearl-project)
 
@@ -184,7 +197,7 @@ Citation: Butler, J., and C.M.L.S. Pagniello. 2021. Emerging, low-cost ocean obs
 
 [Ocean Plastic Sensor](https://www.instructables.com/Remote-Controlled-Optical-Plastic-Sensor/)
 
-**Resources**
+## Resources for Getting Started
 
 [Oceanography for Everyone](https://oceanographyforeveryone.com)
 
