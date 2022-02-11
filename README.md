@@ -1,4 +1,4 @@
-# Open-Source Ocean Tech Projects and Resources
+# Open-Source Ocean Tech Projects and Resources ![GitHub last commit](https://img.shields.io/github/last-commit/jack-butler/open-ocean)
 
 This repository contains a living list of open-source ocean technologies compiled for the article "Emerging, Low-Cost Ocean Observing Technologies to Democratize Access to the Ocean".
 
